@@ -1,34 +1,18 @@
 [ 
   {
-    "name": "commodore",
-    "url": "https://github.com/ph4mished/commodore",
-    "method": "git",
-    "tags": [
-      "commodore",
-      "cli",
-      "command-line",
-      "argument",
-      "argparse",
-      "optparse"      
-    ],
-    "description": "Commodore is a simple CLI parsing library.",
-    "license": "MIT",
-    "web": "https://github.com/ph4mished/commodore"
-  },
-  {
     "name": "caesar",
-    "url": "https://github.com/ph4mished/caesar",
+    "url": "https://github.com/phamio/caesar",
     "method": "git",
     "tags": [
       "caesar"
     ],
     "description": "A simple tool for caesar cipher encoding and decoding",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/caesar"
+    "web": "https://github.com/ph4mio/caesar"
   },
   {
     "name": "morse",
-    "url": "https://github.com/ph4mished/morse",
+    "url": "https://github.com/phamio/morse",
     "method": "git",
     "tags": [
       "morse"
