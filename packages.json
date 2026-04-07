@@ -19,7 +19,7 @@
     ],
     "description": "A simple tool for morse encoding and decoding",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/morse"
+    "web": "https://github.com/phamio/morse"
   },
   {
     "name": "tabulator",
@@ -176,7 +176,7 @@
   },
   {
     "name": "spectra",
-    "url": "https://github.com/ph4mished/spectra",
+    "url": "https://github.com/phamio/spectra",
     "method": "git",
     "tags": [
       "cli",
@@ -188,11 +188,11 @@
     ],
     "description": "Spectra is a simple text coloring, styling and formatting library(terminal coloring).",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/spectra"
+    "web": "https://github.com/phamio/spectra"
   },
   {
     "name": "sparc",
-    "url": "https://github.com/ph4mished/sparc",
+    "url": "https://github.com/phamio/sparc",
     "method": "git",
     "tags": [
       "console",
@@ -202,7 +202,7 @@
     ],
     "description": "Schema Parser for Arguments and Commands.",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/sparc"
+    "web": "https://github.com/phamio/sparc"
   },
   {
     "name": "yaclap",
@@ -36587,7 +36587,7 @@
   },
   {
     "name": "cipherlib",
-    "url": "https://github.com/ph4mished/cipherlib",
+    "url": "https://github.com/phamio/cipherlib",
     "method": "git",
     "tags": [
       "ciphers",
@@ -36602,7 +36602,7 @@
     ],
     "description": "A collection of classical cipher and encoding algorithms including Caesar, ROT13, ROT47, Vigenere, Morse code and other implementations in one library for educational and practical use",
     "license": "MIT",
-    "web": "https://github.com/ph4mished/cipherlib"
+    "web": "https://github.com/phamio/cipherlib"
   },
   {
     "name": "uctl",
